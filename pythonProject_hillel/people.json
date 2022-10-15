@@ -1,0 +1,84 @@
+{
+    "people": [
+        {
+            "name": "Denis",
+            "surname": "Klymenko",
+            "category": "Applied Mathematics",
+            "rating": "90",
+            "uid": "899f119a-571c-4516-b7d3-9be81e3bfaef",
+            "full name": "Denis Klymenko"
+        },
+        {
+            "name": "Boris",
+            "surname": "Fedorets",
+            "category": "Applied Mathematics",
+            "rating": "90",
+            "uid": "8ef7d125-e982-4077-9e4b-928503ac2892",
+            "full name": "Boris Fedorets"
+        },
+        {
+            "name": "Oleg",
+            "surname": "Tarasov",
+            "category": "Applied Mathematics",
+            "rating": "90",
+            "uid": "fab0793d-8f61-436d-90c3-74600b4ab41a",
+            "full name": "Oleg Tarasov"
+        },
+        {
+            "name": "Yulia",
+            "surname": "Shikula",
+            "category": "Applied Mathematics",
+            "rating": "95",
+            "uid": "cd8b982b-25f5-45d7-b72a-a5a6e3ae7457",
+            "full name": "Yulia Shikula"
+        },
+        {
+            "name": "Nikita",
+            "surname": "Karma",
+            "category": "Elektronics",
+            "rating": "95",
+            "uid": "92561674-41d2-4d39-9cd4-c213bc7c0982",
+            "full name": "Nikita Karma"
+        },
+        {
+            "name": "Bohdan",
+            "surname": "Smischuk",
+            "category": "Elektronics",
+            "rating": "95",
+            "uid": "b3c0c68a-6911-452e-83b8-136d31549c7a",
+            "full name": "Bohdan Smischuk"
+        },
+        {
+            "name": "Oleksandr",
+            "surname": "Karaba",
+            "category": "Elektronics",
+            "rating": "100",
+            "uid": "68855c0a-09d6-4dd5-a961-ab907c28d61c",
+            "full name": "Oleksandr Karaba"
+        },
+        {
+            "name": "Elizaveta",
+            "surname": "Gulbinas",
+            "category": "Economics",
+            "rating": "100",
+            "uid": "b9b2a57c-c066-4829-91ef-5e742cbbc759",
+            "full name": "Elizaveta Gulbinas"
+        },
+        {
+            "name": "Alexey",
+            "surname": "Chebanu",
+            "category": "Economics",
+            "rating": "100",
+            "uid": "4fc079c0-1f6e-48a7-a96a-2b73924aa326",
+            "full name": "Alexey Chebanu"
+        },
+        {
+            "name": "Duka",
+            "surname": "Yury",
+            "category": "Economics",
+            "rating": "100",
+            "uid": "394851b4-a479-42eb-9aaf-335093c5d3a9",
+            "full name": "Duka Yury"
+        }
+    ]
+}
