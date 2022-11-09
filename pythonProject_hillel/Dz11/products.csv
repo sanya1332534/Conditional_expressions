@@ -1,0 +1,9 @@
+category,name,price,brand,additional_fields
+TV,Samsung UE43AU7100UXUA,18000,Samsung,|{"Diagonal, inches": 43, "SmartTV": true}|
+TV,LG UA...,16500,LG,|{"Diagonal, inches": 39, "SmartTV": true}|
+TV,Xiaomi,18000,Xiaomi,|{"Diagonal, inches": 70, "SmartTV": true}|
+TV,Xiaomi pro...,20000,Xiaomi,|{"Diagonal, inches": 100, "SmartTV": true}|
+Headphones,Apple Air Pods,9500,Apple,|{"Bluetooth": true, "Battery, hours": 6}|
+Headphones,Xiaomi Pods,4000,Xiaomi,|{"Bluetooth": true, "Battery, hours": 12}|
+Headphones,Nomi,500,Nomi,|{"Bluetooth": true, "Battery, hours": 2}|
+Headphones,Google,10000,Google,|{"Bluetooth": true, "Battery, hours": 12}|
